@@ -1,0 +1,6 @@
+{
+  "name": "Packet Analyzer Agent",
+  "description": "Analyze network traffic pcap files with AI insights and visual dashboards. Inspect protocols, packet counts, and traffic patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
